@@ -75,7 +75,7 @@ export const Header = () => (
     <Actions>
       <Location>
         <MapPin size={18} weight="fill" aria-hidden />
-        Porto Alegre, RS
+        São Paulo, SP
       </Location>
       <ThemeToggle />
       <CartBadge />
