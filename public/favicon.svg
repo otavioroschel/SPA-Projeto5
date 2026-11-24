@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Coffee Delivery">
+  <path d="M10 10v4M19 10v4M28 10v4" stroke="#8047F8" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M8 20h28v14a8 8 0 0 1-8 8H16a8 8 0 0 1-8-8z" fill="#4B2995" />
+  <path d="M36 24h2a6 6 0 0 1 0 12h-2" fill="none" stroke="#4B2995" stroke-width="4" stroke-linecap="round" />
+  <path d="M14 26h16" stroke="#EBE5F9" stroke-width="3" stroke-linecap="round" opacity="0.7" />
+</svg>
